@@ -41,7 +41,7 @@ frontend-template-js-react/
 Para utilizar o template em um novo projeto, clone o repositório:
 
 ```bash
-git clone URL_DO_REPOSITORIO
+git clone https://github.com/IagoAndradeDev/front-end
 ```
 
 Entre na pasta clonada:
